@@ -6,11 +6,13 @@ C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, S
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
-    printf("Hello World");
-
+    cout << "Hello world!" << endl;
     return 0;
 }
+
