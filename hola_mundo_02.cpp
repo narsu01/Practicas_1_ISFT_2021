@@ -9,7 +9,7 @@ int main()
 	cin >> name;
 	cout << "Hello " << name << endl;
 	cin.ignore();
-    cin.get();
+	cin.get();
 
-    return 0;
+	return 0;
 }
